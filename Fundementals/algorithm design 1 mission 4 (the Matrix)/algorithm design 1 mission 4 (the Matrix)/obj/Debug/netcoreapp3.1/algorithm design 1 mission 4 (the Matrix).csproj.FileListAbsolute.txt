@@ -1,0 +1,14 @@
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\obj\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).csproj.AssemblyReference.cache
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\obj\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\obj\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).AssemblyInfoInputs.cache
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\obj\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).AssemblyInfo.cs
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\obj\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).csproj.CoreCompileInputs.cache
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\bin\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).exe
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\bin\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).deps.json
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\bin\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).runtimeconfig.json
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\bin\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).runtimeconfig.dev.json
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\bin\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).dll
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\bin\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).pdb
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\obj\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).dll
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\obj\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).pdb
+C:\Users\mgome\source\repos\algorithm design 1 mission 4 (the Matrix)\algorithm design 1 mission 4 (the Matrix)\obj\Debug\netcoreapp3.1\algorithm design 1 mission 4 (the Matrix).genruntimeconfig.cache

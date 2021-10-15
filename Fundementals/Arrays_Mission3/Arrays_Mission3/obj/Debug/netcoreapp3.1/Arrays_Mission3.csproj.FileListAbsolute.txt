@@ -1,0 +1,14 @@
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\bin\Debug\netcoreapp3.1\Arrays_Mission3.exe
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\bin\Debug\netcoreapp3.1\Arrays_Mission3.deps.json
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\bin\Debug\netcoreapp3.1\Arrays_Mission3.runtimeconfig.json
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\bin\Debug\netcoreapp3.1\Arrays_Mission3.runtimeconfig.dev.json
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\bin\Debug\netcoreapp3.1\Arrays_Mission3.dll
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\bin\Debug\netcoreapp3.1\Arrays_Mission3.pdb
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\obj\Debug\netcoreapp3.1\Arrays_Mission3.csproj.AssemblyReference.cache
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\obj\Debug\netcoreapp3.1\Arrays_Mission3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\obj\Debug\netcoreapp3.1\Arrays_Mission3.AssemblyInfoInputs.cache
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\obj\Debug\netcoreapp3.1\Arrays_Mission3.AssemblyInfo.cs
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\obj\Debug\netcoreapp3.1\Arrays_Mission3.csproj.CoreCompileInputs.cache
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\obj\Debug\netcoreapp3.1\Arrays_Mission3.dll
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\obj\Debug\netcoreapp3.1\Arrays_Mission3.pdb
+C:\Users\mgome\source\repos\Arrays_Mission3\Arrays_Mission3\obj\Debug\netcoreapp3.1\Arrays_Mission3.genruntimeconfig.cache

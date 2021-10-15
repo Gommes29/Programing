@@ -1,0 +1,14 @@
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\bin\Debug\netcoreapp3.1\Arrays mission 2.exe
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\bin\Debug\netcoreapp3.1\Arrays mission 2.deps.json
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\bin\Debug\netcoreapp3.1\Arrays mission 2.runtimeconfig.json
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\bin\Debug\netcoreapp3.1\Arrays mission 2.runtimeconfig.dev.json
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\bin\Debug\netcoreapp3.1\Arrays mission 2.dll
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\bin\Debug\netcoreapp3.1\Arrays mission 2.pdb
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\obj\Debug\netcoreapp3.1\Arrays mission 2.csproj.AssemblyReference.cache
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\obj\Debug\netcoreapp3.1\Arrays mission 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\obj\Debug\netcoreapp3.1\Arrays mission 2.AssemblyInfoInputs.cache
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\obj\Debug\netcoreapp3.1\Arrays mission 2.AssemblyInfo.cs
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\obj\Debug\netcoreapp3.1\Arrays mission 2.csproj.CoreCompileInputs.cache
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\obj\Debug\netcoreapp3.1\Arrays mission 2.dll
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\obj\Debug\netcoreapp3.1\Arrays mission 2.pdb
+C:\Users\mgome\source\repos\Arrays mission 2\Arrays mission 2\obj\Debug\netcoreapp3.1\Arrays mission 2.genruntimeconfig.cache

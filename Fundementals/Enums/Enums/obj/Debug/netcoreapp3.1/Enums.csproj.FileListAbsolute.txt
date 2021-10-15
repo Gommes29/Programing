@@ -1,0 +1,14 @@
+C:\Users\mgome\source\repos\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\mgome\source\repos\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\mgome\source\repos\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\mgome\source\repos\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\mgome\source\repos\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\mgome\source\repos\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\mgome\source\repos\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.AssemblyReference.cache
+C:\Users\mgome\source\repos\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgome\source\repos\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\mgome\source\repos\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\mgome\source\repos\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\mgome\source\repos\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\mgome\source\repos\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\mgome\source\repos\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache

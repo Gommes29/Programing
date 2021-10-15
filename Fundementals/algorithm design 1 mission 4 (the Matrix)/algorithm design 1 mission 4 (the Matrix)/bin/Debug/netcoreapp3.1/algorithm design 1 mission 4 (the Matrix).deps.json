@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "algorithm design 1 mission 4 (the Matrix)/1.0.0": {
+        "runtime": {
+          "algorithm design 1 mission 4 (the Matrix).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algorithm design 1 mission 4 (the Matrix)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

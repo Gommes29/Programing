@@ -1,0 +1,13 @@
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\bin\Debug\netcoreapp3.1\First Game 3 Mission 1.exe
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\bin\Debug\netcoreapp3.1\First Game 3 Mission 1.deps.json
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\bin\Debug\netcoreapp3.1\First Game 3 Mission 1.runtimeconfig.json
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\bin\Debug\netcoreapp3.1\First Game 3 Mission 1.runtimeconfig.dev.json
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\bin\Debug\netcoreapp3.1\First Game 3 Mission 1.dll
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\bin\Debug\netcoreapp3.1\First Game 3 Mission 1.pdb
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\obj\Debug\netcoreapp3.1\First Game 3 Mission 1.csproj.AssemblyReference.cache
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\obj\Debug\netcoreapp3.1\First Game 3 Mission 1.AssemblyInfoInputs.cache
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\obj\Debug\netcoreapp3.1\First Game 3 Mission 1.AssemblyInfo.cs
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\obj\Debug\netcoreapp3.1\First Game 3 Mission 1.csproj.CoreCompileInputs.cache
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\obj\Debug\netcoreapp3.1\First Game 3 Mission 1.dll
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\obj\Debug\netcoreapp3.1\First Game 3 Mission 1.pdb
+C:\Users\mgome\source\repos\First Game 3 Mission 1\First Game 3 Mission 1\obj\Debug\netcoreapp3.1\First Game 3 Mission 1.genruntimeconfig.cache
